@@ -123,6 +123,7 @@ p {
     font-size: 36px;
 }
 .benefits {
+    text-align: center;
     margin-right: 20px;
     padding: 20px;
     clear: both;
